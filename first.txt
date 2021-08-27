@@ -1,1 +1,2 @@
 hi this is merge file
+this file is adjusted with code
